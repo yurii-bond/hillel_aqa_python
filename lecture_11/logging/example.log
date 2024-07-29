@@ -1,0 +1,31 @@
+DEBUG:root:This is message from DEBUG level
+DEBUG:root:This is message from DEBUG level
+DEBUG:root:This is message from DEBUG level
+DEBUG:root:This is message from DEBUG level
+INFO:root:This is message from INFO level
+WARNING:root:This is message from WARNING level
+ERROR:root:This is message from ERROR level
+CRITICAL:root:This is message from CRITICAL level
+WARNING:root:This is message from WARNING level
+ERROR:root:This is message from ERROR level
+CRITICAL:root:This is message from CRITICAL level
+DEBUG:root:This is message from DEBUG level
+INFO:root:This is message from INFO level
+WARNING:root:This is message from WARNING level
+ERROR:root:This is message from ERROR level
+CRITICAL:root:This is message from CRITICAL level
+2024-07-29 19:41:22,708 - DEBUG - This is message from DEBUG level
+2024-07-29 19:41:22,708 - INFO - This is message from INFO level
+2024-07-29 19:41:22,708 - WARNING - This is message from WARNING level
+2024-07-29 19:41:22,708 - ERROR - This is message from ERROR level
+2024-07-29 19:41:22,708 - CRITICAL - This is message from CRITICAL level
+2024-07-29 19:48:14,552 - DEBUG - This is message from DEBUG level
+2024-07-29 19:48:14,552 - INFO - This is message from INFO level
+2024-07-29 19:48:14,552 - WARNING - This is message from WARNING level
+2024-07-29 19:48:14,552 - ERROR - This is message from ERROR level
+2024-07-29 19:48:14,552 - CRITICAL - This is message from CRITICAL level
+2024-07-29 19:48:43 - DEBUG - This is message from DEBUG level
+2024-07-29 19:48:43 - INFO - This is message from INFO level
+2024-07-29 19:48:43 - WARNING - This is message from WARNING level
+2024-07-29 19:48:43 - ERROR - This is message from ERROR level
+2024-07-29 19:48:43 - CRITICAL - This is message from CRITICAL level

@@ -1,0 +1,8 @@
+2024-07-29 20:09:24 - INFO - INFO message
+2024-07-29 20:09:24 - DEBUG - DEBUG message
+2024-07-29 20:10:14 - INFO - INFO message
+2024-07-29 20:10:14 - DEBUG - DEBUG message
+2024-07-29 20:13:54 - INFO - INFO message - logging_code.py - <module> - 14 - __main__
+2024-07-29 20:13:54 - DEBUG - DEBUG message - logging_code.py - <module> - 15 - __main__
+2024-07-29 20:15:36 - INFO - INFO message - logging_code.py - <module> - 14 - __main__
+2024-07-29 20:15:36 - DEBUG - DEBUG message - logging_code.py - <module> - 15 - __main__

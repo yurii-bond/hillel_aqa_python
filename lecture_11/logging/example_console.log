@@ -1,0 +1,5 @@
+2024-07-29 19:49:33 - DEBUG - This is message from DEBUG level
+2024-07-29 19:49:33 - INFO - This is message from INFO level
+2024-07-29 19:49:33 - WARNING - This is message from WARNING level
+2024-07-29 19:49:33 - ERROR - This is message from ERROR level
+2024-07-29 19:49:33 - CRITICAL - This is message from CRITICAL level
