@@ -9,6 +9,10 @@ class Car(object):
         Car.__quantity += 1
 
     def start_engine(self):
+        """
+
+        :return:
+        """
         return 'Engine started'
 
     def get_speed(self):
